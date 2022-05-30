@@ -3,8 +3,10 @@
 ![Picture](../img.JPG)
 
 Hi.
-My name is **Shivika Sharma**. 
+My name is **Shivika Sharma**.
+
 I am a **second year student at IIT Goa**. I study *computer science and engineering*. 
+
 I stay in ***Noida, UP***. I like listening to music and singing.
 
 >## Education
@@ -19,23 +21,23 @@ I stay in ***Noida, UP***. I like listening to music and singing.
 
 > ## 1st-year Courses @ IIT Goa
 >> Autumn Semester 
-- BIO101 : Introduction to biology by Dr. Sreenath Balakrishnan 
-- HS101: Foundation Programme in Humanities and Social Sciences by Dr. Sabiha Hashmi
-- EE100 : Introduction to Profession by Dr. Sashidhar Rao
-- EE101 : Introduction to Electrical and Electronics Engineering by Dr. Sheron Figarado
-- PH101: Quantum Physics and applications by Dr. Santosh Kumar Das
-- MTH101: Calculus by Dr. Shiv Prasad 
+- **BIO101** : Introduction to biology by Dr. Sreenath Balakrishnan 
+- **HS101**: Foundation Programme in Humanities and Social Sciences by Dr. Sabiha Hashmi
+- **EE100** : Introduction to Profession by Dr. Sashidhar Rao
+- **EE101** : Introduction to Electrical and Electronics Engineering by Dr. Sheron Figarado
+- **PH101**: Quantum Physics and applications by Dr. Santosh Kumar Das
+- **MTH101**: Calculus by Dr. Shiv Prasad 
 
 >> Spring Semester
-1. CH101: Physical Chemistry by Dr. Siva Subramanium
-2. CH102: Inorganic and Organic Chemistry by Dr. Mantu Santra
-3. CS101: Introduction to computing by Dr Clint P George [link](https://clintpgeorge.github.io/cs-101/autumn-2021/)
-4. EE102: Circuit Analysis by Dr. Sheron Figarado
-5. ME102: Engineering Graphics and Computer Aided Design by Dr. Anirudh Ambedkar
-6. MTH1021: Basic Linear Algebra by Dr. Kalpesh Haria
-7. MTH1022: Ordinary differential equations by Dr. Saumya 
-8. PH102: Electricity and Magnetism by Dr. Vaibhav Wasnik
-9. CS102: Software Tools by Dr. Clint P George [link](https://clintpgeorge.github.io/cs-102/spring-2022/git/)
+1. **CH101**: Physical Chemistry by Dr. Siva Subramanium
+2. **CH102**: Inorganic and Organic Chemistry by Dr. Mantu Santra
+3. **CS101**: Introduction to computing by Dr Clint P George [link](https://clintpgeorge.github.io/cs-101/autumn-2021/)
+4. **EE102**: Circuit Analysis by Dr. Sheron Figarado
+5. **ME102**: Engineering Graphics and Computer Aided Design by Dr. Anirudh Ambedkar
+6. **MTH1021**: Basic Linear Algebra by Dr. Kalpesh Haria
+7. **MTH1022**: Ordinary differential equations by Dr. Saumya 
+8. **PH102**: Electricity and Magnetism by Dr. Vaibhav Wasnik
+9. **CS102**: Software Tools by Dr. Clint P George [link](https://clintpgeorge.github.io/cs-102/spring-2022/git/)
 
 ---
 > Hobbies 
